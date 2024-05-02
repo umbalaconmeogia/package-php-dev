@@ -1,0 +1,6 @@
+{
+    "name": "umbalaconmeogia/package-php-dev",
+    "autoload": {
+        "psr-4": {"umbalaconmeogia\\packagephpdev\\": "src/"}
+    }
+}

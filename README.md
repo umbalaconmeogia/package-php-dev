@@ -1,2 +1,2 @@
 # package-php-dev
-A sample package used for package-php.
+A sample package used for umbalaconmeogia/package-php.
